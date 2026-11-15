@@ -6,4 +6,4 @@
 [Risk1.pdf](Risk1.pdf)
 [Impl1.pdf]
 
-Version Control Repository (GitHub): https://github.com/TBraven/goosegame
+[Version Control Repository (GitHub)](https://github.com/TBraven/goosegame)
