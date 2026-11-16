@@ -2,7 +2,7 @@
 
 [Req1.pdf](Req1.pdf)
 
-[Arch1.pdf]
+[Arch1.pdf](Arch1.pdf)
 
 [Plan1.pdf]
 
