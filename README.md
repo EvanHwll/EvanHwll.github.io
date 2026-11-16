@@ -4,7 +4,7 @@
 
 [Arch1.pdf](Arch1.pdf)
 
-[Plan1.pdf]
+[Plan1.pdf](Plan1.pdf)
 
 [Risk1.pdf](Risk1.pdf)
 
